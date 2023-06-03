@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Winbox",
+        "icon": "assets/images/skills/winbox.svg"
+    },
+    
+    {
+        "name": "WordPress",
+        "icon": "assets/images/skills/wordpres.svg" 
+    }    
+]
